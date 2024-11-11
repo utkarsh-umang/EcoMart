@@ -29,7 +29,7 @@ export const products: Product[] = [
     price: 2499,
     description: "10000mAh power bank with dual charging capabilities: solar and USB. Made from recycled plastics with weather-resistant design. Perfect for outdoor adventures.",
     images: [
-      "src/assets/power-bank.jpg"
+      "https://images.unsplash.com/photo-1604671368394-2240d0b1bb6c?auto=format&fit=crop&q=80"
     ],
     category: "Sustainable",
     subCategory: "Electronics",
@@ -117,7 +117,7 @@ export const products: Product[] = [
     price: 5999,
     description: "100% organic hemp fiber sheets that get softer with each wash. Naturally antimicrobial and uses 50% less water in production than cotton.",
     images: [
-      "src/assets/hemp-bed-sheet.jpg"
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80"
     ],
     category: "Sustainable",
     subCategory: "Home",
@@ -161,7 +161,7 @@ export const products: Product[] = [
     price: 1799,
     description: "25g protein per serving with a mix of pea, hemp, and pumpkin seed protein. No artificial sweeteners and complete amino acid profile.",
     images: [
-      "src/assets/protien.jpg"
+      "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&q=80"
     ],
     category: "Vegan",
     subCategory: "Nutrition",
